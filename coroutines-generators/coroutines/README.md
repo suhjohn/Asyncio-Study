@@ -11,3 +11,6 @@ The coroutine may receive data from the caller, which uses .send(datum) instead
 of next(...) to feed the coroutine. Usually, the caller pushes values into the coroutine.
 _Fluent Python pg.463_
 
+
+> A coroutine is a function that can "return" while still remembering the state in which it is returning (value of local variables, and what the next instruction should be). This will then allow the coroutine to be called again, which results in it continuing from where it left off.
+_http://sahandsaba.com/understanding-asyncio-node-js-python-3-4.html_
