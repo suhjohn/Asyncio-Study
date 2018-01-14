@@ -33,15 +33,15 @@ Understanding of threads is required to grasp what an event loop is.
 _http://sahandsaba.com/understanding-asyncio-node-js-python-3-4.html'_
 
 # 1. Event Loop
-https://github.com/suhjohn/Asyncio-Study/tree/master/asyncio/event_loop
+https://github.com/suhjohn/Asyncio-Study/tree/master/asyncio_study/event_loop
 
 # 2. Futures
 
-https://github.com/suhjohn/Asyncio-Study/tree/master/asyncio/futures
+https://github.com/suhjohn/Asyncio-Study/tree/master/asyncio_study/futures
 
 # 3. Tasks
 
-https://github.com/suhjohn/Asyncio-Study/tree/master/asyncio/tasks
+https://github.com/suhjohn/Asyncio-Study/tree/master/asyncio_study/tasks
 
 
 # Use Cases
