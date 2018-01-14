@@ -24,7 +24,7 @@ _Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017_,
 Fundamental idea behind Asyncio.
 
 ## Coroutines
-https://github.com/suhjohn/Asyncio-Study/tree/master/asyncio/coroutines-generators/coroutines
+https://github.com/suhjohn/Asyncio-Study/tree/master/asyncio_study/coroutines-generators/coroutines
 
 # 0.5 Thread
 Understanding of threads is required to grasp what an event loop is.
