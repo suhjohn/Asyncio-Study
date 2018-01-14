@@ -36,13 +36,10 @@ _http://sahandsaba.com/understanding-asyncio-node-js-python-3-4.html'_
 https://github.com/suhjohn/Asyncio-Study/tree/master/asyncio_study/event_loop
 
 # 2. Futures
-
 https://github.com/suhjohn/Asyncio-Study/tree/master/asyncio_study/futures
 
 # 3. Tasks
-
 https://github.com/suhjohn/Asyncio-Study/tree/master/asyncio_study/tasks
-
 
 # Use Cases
 Courtesy of _Practical Python Async for Dummies_, https://www.youtube.com/watch?v=5_K8GwZ_268

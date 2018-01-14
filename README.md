@@ -11,9 +11,9 @@ https://github.com/suhjohn/Asyncio-Study/tree/master/asyncio_study
 
 # Aiohttp
 
-https://github.com/suhjohn/Asyncio-Study/tree/master/aiohttp
+https://github.com/suhjohn/Asyncio-Study/tree/master/aiohttp_study
 
 
 # Sanic
 
-https://github.com/suhjohn/Asyncio-Study/tree/master/sanic
+https://github.com/suhjohn/Asyncio-Study/tree/master/sanic_study

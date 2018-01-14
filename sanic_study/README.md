@@ -6,4 +6,11 @@ This means you can use the new shiny async/await syntax from Python 3.5, making 
 _http://sanic.readthedocs.io/en/latest/index.html_
 
 
+This sub_repository will first go through the entire documentation and see its codes.
+
+# Routing
+
+# Blueprint
+Essentially functions as include in Django.
+
 
