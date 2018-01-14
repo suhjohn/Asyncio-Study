@@ -18,7 +18,7 @@ class EventLoop:
     """
     Implements a callback based single-threaded event loop
 
-    source: http://sahandsaba.com/understanding-asyncio-node-js-python-3-4.html
+    source: http://sahandsaba.com/understanding-asyncio_study-node-js-python-3-4.html
     """
 
     def __init__(self, *tasks):

@@ -4,6 +4,9 @@ We will explore various methods of how "Event Loop" is implemented behind the sc
 The code and the text all belongs to here: http://sahandsaba.com/understanding-asyncio-node-js-python-3-4.html
 I have summarized the main points.
 
+> An event loop essentially manages and distributes the execution of different tasks. It registers them and handles distributing the flow of control between them.
+https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e
+
 # Hello World Revisited
 
 Let's start by writing a program to solve a very simple problem.
