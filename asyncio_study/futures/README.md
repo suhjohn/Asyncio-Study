@@ -6,11 +6,18 @@ https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e
 > The asyncio_study.Future class is essentially a promise of a result; it returns the results
 if they are available, and once it receives results,
 it will pass them along to all the registered callbacks.
-It maintains a state variable internally, which allows an outside party to mark a future as canceled.
+It maintains a state variable internally, which allows an outside party to mark a future as canceled.<p/>
 _Mastering Python pg.172_
 
-> Futures encapsulate pending operations so that they can be put in queues, their state of completion can be queried, and their results (or exceptions) can be retrieved when available.
+> Futures encapsulate pending operations so that they can be put in queues,
+their state of completion can be queried, and their results (or exceptions) can be retrieved when available.<p/>
 _Fluent Python pg.511_
+
+
+> A Future is like an IOU - you'll get the result sometime later. e.g. a future might
+promise to return a translation once it is finished. <p/>
+_Practical Python Async for Dummies_, https://www.youtube.com/watch?v=5_K8GwZ_268
+
 
 
 ## Asyncio.futures vs concurrent.futures.Future

@@ -7,7 +7,7 @@ books, blog posts, youtube videos and such to get a better understanding of what
 
 # Asyncio
 
-https://github.com/suhjohn/Asyncio-Study/tree/master/asyncio
+https://github.com/suhjohn/Asyncio-Study/tree/master/asyncio_study
 
 # Aiohttp
 

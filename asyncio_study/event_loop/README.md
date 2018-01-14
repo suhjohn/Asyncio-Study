@@ -7,6 +7,11 @@ I have summarized the main points.
 > An event loop essentially manages and distributes the execution of different tasks. It registers them and handles distributing the flow of control between them.
 https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e
 
+> Event loops use cooperative scheduling:
+an event loop only runs one task at a time.
+Other tasks may run in parallel if other event loops are running in different threads.
+While a task waits for the completion of a future, the event loop executes a new task.
+
 # Hello World Revisited
 
 Let's start by writing a program to solve a very simple problem.

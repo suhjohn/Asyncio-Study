@@ -1,7 +1,7 @@
 from threading import Thread
 from time import time, sleep
 
-from utils import timed_fib
+from .utils import timed_fib
 
 
 def print_hello():
